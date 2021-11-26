@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+main{
+    height:100vh;
+    background-color:brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+div{ background-color: burlywood;
+    max-width: 500;
+    height: auto;
+    padding: 50px;
+    border-radius: 5px;
+
+}
+h1{
+    margin-bottom: 10px;
+    padding:10px 10px 10px 10px;
+    border-radius: 5px;
+    
+}
+label{
+    display: block;
+    border-radius: 3px;
+    
+}
+
+input , #per{
+    width:250px;
+    padding-top:8px;
+    border-radius: 4px;
+    
+}
+
+button{
+    border-radius: 8px;
+    padding: 12px 6px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    border:none;
+    color: white;
+    background:darkred;
+    margin-top: 20px;
+}
+     
+   
+   
+
+
+
+
